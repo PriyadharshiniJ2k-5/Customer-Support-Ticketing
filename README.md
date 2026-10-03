@@ -21,7 +21,7 @@ A Salesforce-based intelligent customer support system that automatically analyz
 | Name | Role | NMID |
 |---|---|---|
 | **Priyadharshini J** | Team Leader | `CB0E45A5610E3B7A80D4E9F2F74B93FA` |
-| **Susmitha** | Team Member | `42C35A146C4BF81B09B4C6771D29B681` |
+| **Susmitha R** | Team Member | `42C35A146C4BF81B09B4C6771D29B681` |
 | **Srimathi R** | Team Member | `137C65A061B7F819292474B958E38893` |
 | **Pushpa A** | Team Member | `42C35A146C4BF81B09B4C6771D29B681` |
 
